@@ -1,0 +1,11 @@
+.clock {
+    font-family: 'Silkscreen', sans-serif;
+    font-size: 3rem;
+    color: #00ff00;
+    background-color: #000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+    box-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00 inset;
+}
